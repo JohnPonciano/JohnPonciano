@@ -29,3 +29,6 @@
  </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/JohnPonciano/JohnPonciano/output/github-contribution-grid-snake.svg)
+  
+![Estudante de segurança da informação](https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Hero.jpg)
+
