@@ -5,7 +5,10 @@
 - ⚡ Fun fact: Eu não Hackeio Facebook
 ###
 
-###
+<div align="center" style="display: inline_block">
+  <img src="https://badge42.herokuapp.com/api/stats/jponcian?cursus=Basecamp&darkmode=true&privacyEmail=true"/>
+</div>
+<br>
 <div align="center">
   <a href="https://github.com/JohnPonciano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnPonciano&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
@@ -31,6 +34,3 @@
  </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/JohnPonciano/JohnPonciano/output/github-contribution-grid-snake.svg)
-![Basecamper na 42SP](https://badge42.herokuapp.com/api/stats/jponcian)
-![Estudante de segurança da informação](https://academy.avast.com/hubfs/New_Avast_Academy/Hackers/Hacker-Hero.jpg)
-
