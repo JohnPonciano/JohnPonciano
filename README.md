@@ -1,4 +1,6 @@
-![grab-landing-page](https://c.tenor.com/sGtRK7e6IYoAAAAd/cyberpunk.gif)
+<div align="center">
+  <img src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif"/>
+</div>
 
 
 ### Eai tudo bem? Meu nome é Jonathan 👋
