@@ -6,7 +6,7 @@
 ### Eai tudo bem? Meu nome é Jonathan 👋
 - 🔭 Hoje trabalho com Back-end e Segurança.
 - 🌱 Estudando Python,Typescript,NODEJS e alguns Frameworks de Segurança, como MSFVENOM
-- 📫 email: jonathan.ponciano@protonmail.com
+- 📫 email: jonathan.ponciano@protonmail.com ou jhow.ponciano@hotmail.com
 - ⚡ Fun fact: Eu não Hackeio Facebook
 ###
 
