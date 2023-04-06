@@ -3,14 +3,14 @@
   <a align="right" href="https://app.daily.dev/hakku001"><img src="https://api.daily.dev/devcards/18bd7ddcc86d473fb6950bc31a00e613.png?r=qbv" width="200" alt="John's Dev Card"/></a> 
 </div>
 
-<div align="center">
+
   ### Eai tudo bem? Meu nome é Jonathan 👋
 - 🔭 Hoje trabalho com Back-end e Segurança.
 - 🌱 Estudando Python,Typescript,NODEJS e alguns Frameworks de Segurança, como MSFVENOM
 - 📫 email: jonathan.ponciano@protonmail.com ou jhow.ponciano@hotmail.com
 - ⚡ Fun fact: Eu não Hackeio Facebook
    ###
-</div>
+
 
 
 <div align="center">
