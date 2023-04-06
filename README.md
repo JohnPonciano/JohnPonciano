@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif"/>
 </div>
 <div align="center">
-   <a  href="https://app.daily.dev/hakku001"><img src="https://api.daily.dev/devcards/18bd7ddcc86d473fb6950bc31a00e613.png?r=qbv" width="200" alt="John's Dev Card"/></a> 
+   <a  href="https://app.daily.dev/hakku001"><img src="https://api.daily.dev/devcards/18bd7ddcc86d473fb6950bc31a00e613.png?r=qbv" width="400" alt="John's Dev Card"/></a> 
 </div>
 
   ### Eai tudo bem? Meu nome é Jonathan 👋
