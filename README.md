@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif"/>
+  <img align="left" src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif"/>
+  <a align="rigth" href="https://app.daily.dev/hakku001"><img src="https://api.daily.dev/devcards/18bd7ddcc86d473fb6950bc31a00e613.png?r=qbv" width="200" alt="John's Dev Card"/></a> 
 </div>
 
 
@@ -9,9 +10,6 @@
 - 📫 email: jonathan.ponciano@protonmail.com ou jhow.ponciano@hotmail.com
 - ⚡ Fun fact: Eu não Hackeio Facebook
 ###
-<div align="right">
-<a href="https://app.daily.dev/hakku001"><img src="https://api.daily.dev/devcards/18bd7ddcc86d473fb6950bc31a00e613.png?r=qbv" width="200" alt="John's Dev Card"/></a> 
-</div>
 
 <div align="center">
   <a href="https://github.com/JohnPonciano">
