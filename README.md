@@ -18,9 +18,7 @@
 
 ### 
 <div>
-    <a href = "mailto:jonathan.ponciano@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jonathan-ponciano-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "https://api.whatsapp.com/send?phone=5511988661865"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/JohnPonciano/JohnPonciano/output/github-contribution-grid-snake.svg)
