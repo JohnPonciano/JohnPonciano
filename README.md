@@ -2,13 +2,12 @@
   <img src="https://c.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif"/>
 </div>
 
-  ### Eai tudo bem? Meu nome é Jonathan 👋
-- 🔭 Hoje trabalho com Back-end e Segurança.
-- 🌱 Estudando Python,Typescript,NODEJS e alguns Frameworks de Segurança, como MSFVENOM
-- 📫 email: jonathan.ponciano@protonmail.com ou jhow.ponciano@hotmail.com
-- ⚡ Fun fact: Eu não Hackeio Facebook
-   ###
-
+  ### Sup! My name is Jonathan 👋
+- 🔭 Today I work with Back-end and Security.
+- 🌱 Studying Python,Typescript,NODEJS and some Security Frameworks like MSFVENOM
+- 📫 email: jonathan.ponciano@protonmail.com or jhow.ponciano@hotmail.com
+- ⚡ Fun fact: I don't hack Facebook
+  ###
 
 
 <div align="center">
