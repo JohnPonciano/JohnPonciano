@@ -8,7 +8,7 @@
 - 🧪 Currently brewing with **Python**, **NodeJS**, **Elixir**, **Java** & **Go**
 - 📬 Wanna talk code, games or food? Hit me up:
   - ✉️ jonathan.ponciano@icloud.com
-  - ✉️ jhow.ponciano@hotmail.com
+  - 📱 +55 11 98866-1865
 - ⚠️ Fun fact: **I don't hack Facebook**, but I might refactor your spaghetti code 🍝
 
 ---
