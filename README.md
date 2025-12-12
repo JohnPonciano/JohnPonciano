@@ -17,7 +17,7 @@
 
 | Name | Preview | Description |
 |------|---------|-------------|
-| 🪪 [**WalletPass**](https://walletpass.xunseen.site/) | 💳 | Digital wallet system for managing passes, tickets and virtual IDs |
+| 🪪 [**Catalli**](https://www.catalli.shop/) | 💳 | Digital wallet system for managing passes, tickets and virtual IDs |
 | 🕹️ [**Expo RetroGames - Itu/SP**](https://expo-retrogames-itu.vercel.app/) | 🕹️ | Official website for the **Expo RetroGames** event happening in Itu on **May 17, 2025** |
 | 📊 [**Justo Preço - SaaS**](https://justo-preco-saas.vercel.app/) | 🚗 | Data-driven alternative for **realistic vehicle pricing in Brazil**, based on economic indicators |
 
