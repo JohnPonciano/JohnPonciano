@@ -5,7 +5,7 @@
 # 🎮✨ Sup! I'm Jonathan – aka John 👋
 
 - 🔐 Back-end Dev & InfoSec enthusiast
-- 🧪 Currently brewing with **Python**, **NodeJS**, **Elixir**, **Java** & **Go**
+- 🧪 Currently brewing with **Python**, **NodeJS**, **Elixir**
 - 📬 Wanna talk code, games or food? Hit me up:
   - ✉️ jonathan.ponciano@icloud.com
   - 📱 +55 11 98866-1865
@@ -18,8 +18,7 @@
 | Name | Preview | Description |
 |------|---------|-------------|
 | 🪪 [**Catalli**](https://www.catalli.shop/) | 💳 | Digital wallet system for managing passes, tickets and virtual IDs |
-| 🕹️ [**Expo RetroGames - Itu/SP**](https://expo-retrogames-itu.vercel.app/) | 🕹️ | Official website for the **Expo RetroGames** event happening in Itu on **May 17, 2025** |
-| 📊 [**Justo Preço - SaaS**](https://justo-preco-saas.vercel.app/) | 🚗 | Data-driven alternative for **realistic vehicle pricing in Brazil**, based on economic indicators |
+| 🕹️ [**Expo RetroGames - Itu/SP**] (https://www.exporetrogamesitu.com.br/) | 🕹️ | Official website for the **Expo RetroGames** event happening in Itu on **May 17, 2025** |
 
 ---
 
